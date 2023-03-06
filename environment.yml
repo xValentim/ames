@@ -1,0 +1,6 @@
+name: ames
+dependencies:
+  - python
+  - pip
+  - pip:
+    - poetry
