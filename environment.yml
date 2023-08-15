@@ -2,5 +2,13 @@ name: ames
 dependencies:
   - python
   - pip
-  - pip:
-    - poetry
+  - numpy
+  - scipy
+  - matplotlib
+  - pandas
+  - jupyterlab
+  - folium
+  - yapf
+  - seaborn
+  - scikit-learn
+  - requests
